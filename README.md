@@ -16,7 +16,7 @@ This is a solution to the [Order summary component challenge on Frontend Mentor]
 
 ### Screenshot
 
-![](./qr-challenge-screenshot.png)
+![](./order-summary-screenshot.png)
 
 ### Links
 
@@ -32,7 +32,7 @@ This is a solution to the [Order summary component challenge on Frontend Mentor]
 
 ### What I learned
 
-I got a nice and quick practice of basic HTML and CSS. After the challenge, I have become more comfortable using HTML and CSS.
+I got a nice and quick practice of basic HTML and CSS. I struggled in some parts but after some 'Googling', I could create the specified design. After the challenge, I have become more comfortable using HTML and CSS.
 
 ## Author
 
